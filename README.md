@@ -8,7 +8,7 @@ This repository contains all the materials for the CE153: CE153 course at Sharif
 ## Table of Contents
 
 - [Overview](#overview)
-- [Assignments](#practical-assignments)
+- [Assignments](#assignments)
 
 ## Assignments
 
