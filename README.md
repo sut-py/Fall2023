@@ -15,6 +15,10 @@ This repository contains all the materials for the CE153: Fundamentals of Progra
 
 In the "Assignments" folder, you will find the assignments and the solutions which were given during the course.
 
+## Slides
+
+In the "Assignments" folder, you will find the assignments and the solutions which were given during the course.
+
 ## Maintainer
 
 - [Iman Mohammadi](https://github.com/Imanm02)
