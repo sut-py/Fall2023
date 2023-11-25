@@ -17,7 +17,7 @@ In the "Assignments" folder, you will find the assignments and the solutions whi
 
 ## Slides
 
-In the "Assignments" folder, you will find the assignments and the solutions which were given during the course.
+In the "slides" folder, you will find the slides of the course.
 
 ## Maintainer
 
