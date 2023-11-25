@@ -1,8 +1,15 @@
-num1 = int(input())
-num2 = int(input())
 n = int(input())
+m = int(input())
+k = int(input())
+carry = 0
+for _ in range(32):  
+    sum_no_carry = n ^ m
+    carry = (n & m) << 1
+    n = sum_no_carry
+    m = carry
 
-for i in range(n):
-    x = int(input())
-    p = num1 & (1 << x) if x < 32 else num2 & (1 << (x - 32))
-    print("yes" if p != 0 else "no")
+print(n)
+if n == k:
+    print("YES")
+else:
+    print("NO")
