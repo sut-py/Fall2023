@@ -12,7 +12,7 @@ This repository contains all the materials for the CE153: CE153 course at Sharif
 
 ## Assignments
 
-In the "Assignments" folder, you will find the solutions to the 8 practical assignments given during the course.
+In the "Assignments" folder, you will find the assignments and the solutions which were given during the course.
 
 ## Maintainer
 
