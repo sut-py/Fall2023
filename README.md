@@ -3,7 +3,7 @@ All the materials of Dr. Malekzadeh's CE153: Fundamentals of Programming Python 
 
 ## Overview
 
-This repository contains all the materials for the CE933: Machine Learning course at Sharif University of Technology, Spring 2023, taught by Prof. Motahari.
+This repository contains all the materials for the CE153: CE153 course at Sharif University of Technology, Fall 2023, taught by Prof. Motahari.
 
 ## Table of Contents
 
