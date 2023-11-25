@@ -9,7 +9,7 @@ This repository contains all the materials for the CE153: Fundamentals of Progra
 
 - [Overview](#overview)
 - [Assignments](#assignments)
-
+- [Slides](#slides)
 
 ## Assignments
 
