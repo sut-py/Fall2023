@@ -9,6 +9,7 @@ for _ in range(32):
     m = carry
 
 print(n)
+
 if n == k:
     print("YES")
 else:
