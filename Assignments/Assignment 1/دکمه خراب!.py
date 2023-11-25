@@ -1,7 +1,9 @@
 n = int(input())
 m = int(input())
 k = int(input())
+
 carry = 0
+
 for _ in range(32):  
     sum_no_carry = n ^ m
     carry = (n & m) << 1
