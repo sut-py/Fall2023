@@ -17,6 +17,7 @@ for num in range(start, end+1):
                 break
         if is_prime == 1:
             count += 1
+
 if b >= a:
     print("main order - amount: %d" % count)
 else:
