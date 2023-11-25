@@ -8,11 +8,11 @@ This repository contains all the materials for the CE153: CE153 course at Sharif
 ## Table of Contents
 
 - [Overview](#overview)
-- [Practical Assignments](#practical-assignments)
+- [Assignments](#practical-assignments)
 
-## Practical Assignments
+## Assignments
 
-In the "Practical Assignments" folder, you will find the solutions to the 8 practical assignments given during the course.
+In the "Assignments" folder, you will find the solutions to the 8 practical assignments given during the course.
 
 ## Maintainer
 
