@@ -9,16 +9,16 @@ This repository contains all the materials for the CE153: Fundamentals of Progra
 
 - [Overview](#overview)
 - [Assignments](#assignments)
-- [Exams](#exams)
+- [Exam](#exam)
 - [Slides](#slides)
 
 ## Assignments
 
 In the "Assignments" folder, you will find the assignments and the solutions that were given during the course.
 
-## Exams
+## Exam
 
-In the "Exams" folder, you will find the exams which were given during the course and their solutions.
+In the "Exam" folder, you will find the exams which were given during the course and their solutions.
 
 ## Slides
 
