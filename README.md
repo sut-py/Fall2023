@@ -23,7 +23,3 @@ In the "Exam" folder, you will find the exams which were given during the course
 ## Slides
 
 In the "slides" folder, you will find the slides of the course.
-
-## Maintainer
-
-- [Iman Mohammadi](https://github.com/Imanm02)
